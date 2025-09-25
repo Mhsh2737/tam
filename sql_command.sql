@@ -10,7 +10,7 @@ create table lessons
 
 
 insert into lessons (title, teacher, unit) values ( 'python', 'ali', 3);
-insert into lessons (title, teacher, unit) values ( 'c++', 'reza', 2);
+insert into lessons (title, teacher, unit) values ( 'c', 'morteza', 2);
 
 
 update lessons set title='java', teacher='amir' where id=1;
